@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+/*for wrapper*/
+.wrapper {
+    max-width: 1360px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.websiteColor{
+    background-color: #100f3c;
+}
+
+.navcolor{
+    background-color: #6e6aec;
+}
+
+
+.nav-style {
+    font-weight: bolder;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.slider-img-height{
+    height: 80vh;
+}
